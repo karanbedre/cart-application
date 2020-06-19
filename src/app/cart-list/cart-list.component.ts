@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { MatDialog } from '@angular/material/dialog';
 import { SucessBoxComponent } from '../sucess-box/sucess-box.component';
+import { environment } from '../../environments/environment';
 @Component({
   selector: 'app-cart-list',
   templateUrl: './cart-list.component.html',
@@ -18,7 +19,8 @@ export class CartListComponent implements OnInit {
   async ngOnInit() {
     localStorage.removeItem('product');
     this.getLocalData();
-
+    console.log(environment.baseUrl);
+    
   }
 
   getLocalData() {
@@ -26,7 +28,7 @@ export class CartListComponent implements OnInit {
     //during runtime
     // const myRequest = new Request('/assets/js/products.json');
     // during production
-    const myRequest = new Request('cart-application/assets/js/products.json');
+    const myRequest = new Request(environment.baseUrl);
     fetch(myRequest)
       .then(function (response) {
         return response.json();
