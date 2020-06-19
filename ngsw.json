@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1592575520293,
+  "timestamp": 1592575712056,
   "index": "https://karanbedre.github.io/cart-application/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://karanbedre.github.io/cart-application/favicon.ico",
         "https://karanbedre.github.io/cart-application/index.html",
-        "https://karanbedre.github.io/cart-application/main-es2015.ef87f8a8b89e06302acf.js",
-        "https://karanbedre.github.io/cart-application/main-es5.ef87f8a8b89e06302acf.js",
+        "https://karanbedre.github.io/cart-application/main-es2015.2687b93a2fedb1bd6db6.js",
+        "https://karanbedre.github.io/cart-application/main-es5.2687b93a2fedb1bd6db6.js",
         "https://karanbedre.github.io/cart-application/manifest.webmanifest",
         "https://karanbedre.github.io/cart-application/polyfills-es2015.5b10b8fd823b6392f1fd.js",
         "https://karanbedre.github.io/cart-application/polyfills-es5.8e50a9832860f7cf804a.js",
@@ -71,9 +71,9 @@
     "https://karanbedre.github.io/cart-application/assets/images/oil.jpg": "dc604134b64be534eb5a101c0a9c10bb1be42995",
     "https://karanbedre.github.io/cart-application/assets/js/products.json": "21224e40cb52bdabe9a6ab9344780df43a7b2c69",
     "https://karanbedre.github.io/cart-application/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://karanbedre.github.io/cart-application/index.html": "c8478720f9574a257a0013f2e871ed23e1066839",
-    "https://karanbedre.github.io/cart-application/main-es2015.ef87f8a8b89e06302acf.js": "5f985f76bc3bacf9759831a1bb35710573d8f088",
-    "https://karanbedre.github.io/cart-application/main-es5.ef87f8a8b89e06302acf.js": "632d90893c3d641ea4905faa8a5940cc4d5c6f9a",
+    "https://karanbedre.github.io/cart-application/index.html": "f28aad5f7e99a69ece25e0f9a18a95491062d258",
+    "https://karanbedre.github.io/cart-application/main-es2015.2687b93a2fedb1bd6db6.js": "6b1270ac0512859608840a66ab29b7d3ae590988",
+    "https://karanbedre.github.io/cart-application/main-es5.2687b93a2fedb1bd6db6.js": "d0d83cc76020d7a3e2e00074380c62605603e185",
     "https://karanbedre.github.io/cart-application/manifest.webmanifest": "62c3dedd8868f48ac345e4ed74a626432e43f7b1",
     "https://karanbedre.github.io/cart-application/polyfills-es2015.5b10b8fd823b6392f1fd.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
     "https://karanbedre.github.io/cart-application/polyfills-es5.8e50a9832860f7cf804a.js": "29c3227e54cf420fa789aa877c2e4194ffd959c7",
