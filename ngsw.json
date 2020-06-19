@@ -1,0 +1,102 @@
+{
+  "configVersion": 1,
+  "timestamp": 1592574635312,
+  "index": "https://karanbedre.github.io/cart-application/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://karanbedre.github.io/cart-application/favicon.ico",
+        "https://karanbedre.github.io/cart-application/index.html",
+        "https://karanbedre.github.io/cart-application/main-es2015.e26843ae1112d795c153.js",
+        "https://karanbedre.github.io/cart-application/main-es5.e26843ae1112d795c153.js",
+        "https://karanbedre.github.io/cart-application/manifest.webmanifest",
+        "https://karanbedre.github.io/cart-application/polyfills-es2015.5b10b8fd823b6392f1fd.js",
+        "https://karanbedre.github.io/cart-application/polyfills-es5.8e50a9832860f7cf804a.js",
+        "https://karanbedre.github.io/cart-application/runtime-es2015.c5fa8325f89fc516600b.js",
+        "https://karanbedre.github.io/cart-application/runtime-es5.c5fa8325f89fc516600b.js",
+        "https://karanbedre.github.io/cart-application/styles.0ba44d6f47f8f659c93e.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://karanbedre.github.io/cart-application/assets/icons/icon-128x128.png",
+        "https://karanbedre.github.io/cart-application/assets/icons/icon-144x144.png",
+        "https://karanbedre.github.io/cart-application/assets/icons/icon-152x152.png",
+        "https://karanbedre.github.io/cart-application/assets/icons/icon-192x192.png",
+        "https://karanbedre.github.io/cart-application/assets/icons/icon-384x384.png",
+        "https://karanbedre.github.io/cart-application/assets/icons/icon-512x512.png",
+        "https://karanbedre.github.io/cart-application/assets/icons/icon-72x72.png",
+        "https://karanbedre.github.io/cart-application/assets/icons/icon-96x96.png",
+        "https://karanbedre.github.io/cart-application/assets/images/atta.jpg",
+        "https://karanbedre.github.io/cart-application/assets/images/dosa.jpg",
+        "https://karanbedre.github.io/cart-application/assets/images/ghee.jpg",
+        "https://karanbedre.github.io/cart-application/assets/images/jam.png",
+        "https://karanbedre.github.io/cart-application/assets/images/ketchup.jpg",
+        "https://karanbedre.github.io/cart-application/assets/images/liondates.jpg",
+        "https://karanbedre.github.io/cart-application/assets/images/milkpowder.jpg",
+        "https://karanbedre.github.io/cart-application/assets/images/nescafe.jpg",
+        "https://karanbedre.github.io/cart-application/assets/images/noodles.jpg",
+        "https://karanbedre.github.io/cart-application/assets/images/oil.jpg",
+        "https://karanbedre.github.io/cart-application/assets/js/products.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://karanbedre.github.io/cart-application/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://karanbedre.github.io/cart-application/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://karanbedre.github.io/cart-application/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://karanbedre.github.io/cart-application/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://karanbedre.github.io/cart-application/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://karanbedre.github.io/cart-application/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://karanbedre.github.io/cart-application/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://karanbedre.github.io/cart-application/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://karanbedre.github.io/cart-application/assets/images/atta.jpg": "048952b7b5f4e1ce86326c2a3f3817bfe91c41fe",
+    "https://karanbedre.github.io/cart-application/assets/images/dosa.jpg": "7c311eff4ce5d7d9c0ff1cb1720a6f3ec50ebb02",
+    "https://karanbedre.github.io/cart-application/assets/images/ghee.jpg": "73010ff1f6b42065be9204fb654127fd375fccdb",
+    "https://karanbedre.github.io/cart-application/assets/images/jam.png": "c3750e93e49e155745a94abaee546c2a3622d205",
+    "https://karanbedre.github.io/cart-application/assets/images/ketchup.jpg": "422fe6ac6855480e2054b1a7178d24da468523f2",
+    "https://karanbedre.github.io/cart-application/assets/images/liondates.jpg": "d5afc58b3d8cff92d80bbae5a03ff43a0bd90b47",
+    "https://karanbedre.github.io/cart-application/assets/images/milkpowder.jpg": "94ed43a70a688849a05ad942f99ae0d2f8149147",
+    "https://karanbedre.github.io/cart-application/assets/images/nescafe.jpg": "08518cdbdca837478a1377665235f72db3dbbe69",
+    "https://karanbedre.github.io/cart-application/assets/images/noodles.jpg": "b85abaaa9d37bbc8b35cda947b3a9d33f28b86dd",
+    "https://karanbedre.github.io/cart-application/assets/images/oil.jpg": "dc604134b64be534eb5a101c0a9c10bb1be42995",
+    "https://karanbedre.github.io/cart-application/assets/js/products.json": "21224e40cb52bdabe9a6ab9344780df43a7b2c69",
+    "https://karanbedre.github.io/cart-application/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://karanbedre.github.io/cart-application/index.html": "419021eb759e1fa26be6d06f6655ab0e311e915d",
+    "https://karanbedre.github.io/cart-application/main-es2015.e26843ae1112d795c153.js": "cb67751969ef5e25230785a4a503c97a9b4b968a",
+    "https://karanbedre.github.io/cart-application/main-es5.e26843ae1112d795c153.js": "a517d501dd22272f86dff2731ac765f5b6ebbcd8",
+    "https://karanbedre.github.io/cart-application/manifest.webmanifest": "62c3dedd8868f48ac345e4ed74a626432e43f7b1",
+    "https://karanbedre.github.io/cart-application/polyfills-es2015.5b10b8fd823b6392f1fd.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
+    "https://karanbedre.github.io/cart-application/polyfills-es5.8e50a9832860f7cf804a.js": "29c3227e54cf420fa789aa877c2e4194ffd959c7",
+    "https://karanbedre.github.io/cart-application/runtime-es2015.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://karanbedre.github.io/cart-application/runtime-es5.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://karanbedre.github.io/cart-application/styles.0ba44d6f47f8f659c93e.css": "f1e4655e2c22fa030d26b53e0971e86f19b663df"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
