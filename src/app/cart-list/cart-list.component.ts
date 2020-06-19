@@ -23,7 +23,10 @@ export class CartListComponent implements OnInit {
 
   getLocalData() {
     const self = this;
-    const myRequest = new Request('/assets/js/products.json');
+    //during runtime
+    // const myRequest = new Request('/assets/js/products.json');
+    // during production
+    const myRequest = new Request('cart-application/assets/js/products.json');
     fetch(myRequest)
       .then(function (response) {
         return response.json();
