@@ -6,7 +6,7 @@
     "quantity": "1kg",
     "mrp": "300",
     "discount_mrp": "270",
-    "image": "/assets/images/liondates.jpg",
+    "image": "assets/images/liondates.jpg",
     "offer_text": "10% Off",
     "count": 0
   },
@@ -17,7 +17,7 @@
     "quantity": "50g",
     "mrp": "50",
     "discount_mrp": "47",
-    "image": "/assets/images/noodles.jpg",
+    "image": "assets/images/noodles.jpg",
     "offer_text": "5% Off",
     "count": 0
   },
@@ -28,7 +28,7 @@
     "quantity": "1L",
     "mrp": "200",
     "discount_mrp": "170",
-    "image": "/assets/images/dosa.jpg",
+    "image": "assets/images/dosa.jpg",
     "offer_text": "15% Off",
     "count": 0
   },
@@ -39,7 +39,7 @@
     "quantity": "500g",
     "mrp": "100",
     "discount_mrp": "88",
-    "image": "/assets/images/atta.jpg",
+    "image": "assets/images/atta.jpg",
     "offer_text": "12% Off",
     "count": 0
   },
@@ -50,7 +50,7 @@
     "quantity": "500g",
     "mrp": "500",
     "discount_mrp": "450",
-    "image": "/assets/images/ghee.jpg",
+    "image": "assets/images/ghee.jpg",
     "offer_text": "10% Off",
     "count": 0
   },
@@ -61,7 +61,7 @@
     "quantity": "1kg",
     "mrp": "100",
     "discount_mrp": "70",
-    "image": "/assets/images/jam.png",
+    "image": "assets/images/jam.png",
     "offer_text": "15% Off",
     "count": 0
   },
@@ -72,7 +72,7 @@
     "quantity": "1L",
     "mrp": "500",
     "discount_mrp": "425",
-    "image": "/assets/images/ketchup.jpg",
+    "image": "assets/images/ketchup.jpg",
     "offer_text": "15% Off",
     "count": 0
   },
@@ -83,7 +83,7 @@
     "quantity": "1kg",
     "mrp": "400",
     "discount_mrp": "340",
-    "image": "/assets/images/milkpowder.jpg",
+    "image": "assets/images/milkpowder.jpg",
     "offer_text": "15% Off",
     "count": 0
   },
@@ -94,7 +94,7 @@
     "quantity": "1L",
     "mrp": "100",
     "discount_mrp": "95",
-    "image": "/assets/images/oil.jpg",
+    "image": "assets/images/oil.jpg",
     "offer_text": "5% Off",
     "count": 0
   },
@@ -105,7 +105,7 @@
     "quantity": "500g",
     "mrp": "600",
     "discount_mrp": "540",
-    "image": "/assets/images/nescafe.jpg",
+    "image": "assets/images/nescafe.jpg",
     "offer_text": "10% Off",
     "count": 0
   }
