@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1592575712056,
+  "timestamp": 1592576226532,
   "index": "https://karanbedre.github.io/cart-application/index.html",
   "assetGroups": [
     {
@@ -69,7 +69,7 @@
     "https://karanbedre.github.io/cart-application/assets/images/nescafe.jpg": "08518cdbdca837478a1377665235f72db3dbbe69",
     "https://karanbedre.github.io/cart-application/assets/images/noodles.jpg": "b85abaaa9d37bbc8b35cda947b3a9d33f28b86dd",
     "https://karanbedre.github.io/cart-application/assets/images/oil.jpg": "dc604134b64be534eb5a101c0a9c10bb1be42995",
-    "https://karanbedre.github.io/cart-application/assets/js/products.json": "21224e40cb52bdabe9a6ab9344780df43a7b2c69",
+    "https://karanbedre.github.io/cart-application/assets/js/products.json": "fea69202195cc97824e43ae175d255e897defc7c",
     "https://karanbedre.github.io/cart-application/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "https://karanbedre.github.io/cart-application/index.html": "f28aad5f7e99a69ece25e0f9a18a95491062d258",
     "https://karanbedre.github.io/cart-application/main-es2015.2687b93a2fedb1bd6db6.js": "6b1270ac0512859608840a66ab29b7d3ae590988",
